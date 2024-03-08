@@ -41,10 +41,12 @@ Copy code
 pip install -r requirements.txt
 Run the analysis scripts or notebooks in the code/ or notebooks/ directory.
 
-3. Results
+3. Results:
+   
 Summarize the key findings and insights gained from the analysis. Provide visualizations and explanations.
 
-4. Future Work
+4. Future Work:
+   
 Outline potential future work or improvements that can be made to enhance the risk detection model.
 
 ### Contributors
